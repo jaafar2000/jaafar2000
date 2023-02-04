@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **node , mongo DB, express**
 
-- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1PkzGHq17GK8W-9C4YmOpv3gnuca7cQFB/view?usp=sharing](https://drive.google.com/file/d/1PkzGHq17GK8W-9C4YmOpv3gnuca7cQFB/view?usp=sharing)  
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1PkzGHq17GK8W-9C4YmOpv3gnuca7cQFB/view?usp=sharing](https://drive.google.com/file/d/1PkzGHq17GK8W-9C4YmOpv3gnuca7cQFB/view?usp=sharing)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
