@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaafar2000&label=Profile%20views&color=0e75b6&style=flat" alt="jaafar2000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaafar2000" alt="jaafar2000" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaafar2000" alt="jaafar2000" /></a> </p>
 
-- 🌱 I’m currently learning **node , mongo DB, express**
-  
-- 📄 [Know about my experiences]: [Link]([https://metaverse-modern-website-65va-93uhngar0-jaafar2000.vercel.app/](https://drive.google.com/file/d/1PkzGHq17GK8W-9C4YmOpv3gnuca7cQFB/view?usp=sharing](https://drive.google.com/file/d/1PkzGHq17GK8W-9C4YmOpv3gnuca7cQFB/view?usp=sharing))
 
 
 <h3 align="left">Connect with me:</h3>
