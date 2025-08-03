@@ -33,19 +33,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaafar2000&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaafar2000&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
-
-### 🐍 Contribution Graph
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" alt="snake graph" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=const+jaafar+%3D+%7B;code%3A+%5B'JavaScript'%2C+'React'%2C+'Next.js'%5D%2C;learning%3A+%5B'PostgreSQL'%2C+'Prisma'%2C+'Clean+Architecture'%5D%2C;goal%3A+'Build+epic+products+and+learn+fast';%7D" alt="Typing SVG" />
 </p>
