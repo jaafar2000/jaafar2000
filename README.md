@@ -4,7 +4,7 @@
   <img src="https://1.bp.blogspot.com/-AjmeC6tetH4/XRzBBU1NVVI/AAAAAABGy-Q/dIT8K7r_FdEyQyWs4CdtozXnGw03-q2MQCLcBGAs/s1600/AW3925002_05.gif" height="240" width="370" alt="Coding GIF">
 </p>
 
-<h3 align="center">💻 Software Engineering Student | 🌐 Web Development Enthusiast</h3>
+<h3 align="center">💻 Software Engineering | 🌐 Web Development Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaafar2000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
